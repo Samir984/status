@@ -1,0 +1,13 @@
+Django==5.*
+django-dramatiq
+django-types
+django-stubs-ext
+dramatiq
+dramatiq-crontab
+gunicorn
+httpx
+psycopg2-binary==2.*
+pydantic-settings==2.*
+pydantic==2.*
+redis
+whitenoise==6.*
